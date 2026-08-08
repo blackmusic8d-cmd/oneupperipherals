@@ -1,0 +1,8 @@
+{
+  "name": "Remix OneUpPeripherals",
+  "description": "Amazon-inspired electronics store with WhatsApp ordering, product search, brand filtering, and full admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
